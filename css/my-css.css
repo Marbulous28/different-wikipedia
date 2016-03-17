@@ -1,0 +1,53 @@
+.sidebar{
+  background-color: #D6D7DB;
+}
+
+.first-content{
+  background-color: #D6D7DB;
+}
+
+.top-margin{
+  margin-top: 1em;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+.nav {
+  margin: .2em .2em .2em .2em;
+  max-width: 100%;
+}
+
+li{
+  max-width: 100%;
+}
+
+.second-content{
+  background: #d7eed7;
+  margin: 20px 0px 20px 0px;
+  border: 2px solid #c3e3cf;
+}
+
+.second-content-header{
+  background-color: #c3e3cf;
+}
+
+.third-content{
+  background: #d1e3f0;
+  margin: 20px 0px 20px 0px;
+  border: 2px solid #98c3e3;
+}
+
+.third-content-header{
+  background-color: #98c3e3;
+}
+
+.last-content{
+  background: #ebcaec;
+  margin:-20px 0px 0px 0px;
+  border: 2px solid #d6a9e5;
+}
+
+.last-content-header{
+  background-color: #d6a9e5;
